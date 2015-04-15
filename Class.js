@@ -36,6 +36,7 @@
           };
         })(name, prop[name]) :
         prop[name];
+        
     }
    
     // The dummy class constructor
